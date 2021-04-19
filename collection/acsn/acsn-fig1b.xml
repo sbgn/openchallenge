@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sbml xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" level="2" version="4">
+<model metaid="untitled" id="untitled">
+<annotation>
+<celldesigner:extension>
+<celldesigner:modelVersion>4.0</celldesigner:modelVersion>
+<celldesigner:modelDisplay sizeX="1167" sizeY="445"/>
+<celldesigner:listOfIncludedSpecies>
+<celldesigner:species id="a_s2983" name="BCL2">
+<celldesigner:notes>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title/>
+</head>
+<body/>
+</html>
+</celldesigner:notes>
+<celldesigner:annotation>
+<celldesigner:complexSpecies>a_s2951</celldesigner:complexSpecies>
+<celldesigner:speciesIdentity>
+<celldesigner:class>PROTEIN</celldesigner:class>
+<celldesigner:proteinReference>e_pr159</celldesigner:proteinReference>
+</celldesigner:speciesIdentity>
+</celldesigner:annotation>
+</celldesigner:species>
+<celldesigner:species id="a_s3000" name="BAD">
+<celldesigner:notes>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title/>
+</head>
+<body/>
+</html>
+</celldesigner:notes>
+<celldesigner:annotation>
+<celldesigner:complexSpecies>a_s2951</celldesigner:complexSpecies>
+<celldesigner:speciesIdentity>
+<celldesigner:class>PROTEIN</celldesigner:class>
+<celldesigner:proteinReference>e_pr1029</celldesigner:proteinReference>
+<celldesigner:state>
+<celldesigner:listOfModifications>
+<celldesigner:modification residue="a_rs1" state="unknown"/>
+</celldesigner:listOfModifications>
+</celldesigner:state>
+</celldesigner:speciesIdentity>
+</celldesigner:annotation>
+</celldesigner:species>
+</celldesigner:listOfIncludedSpecies>
+<celldesigner:listOfCompartmentAliases/>
+<celldesigner:listOfComplexSpeciesAliases>
+<celldesigner:complexSpeciesAlias id="csa1" species="a_s2951">
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="217.6249999999991" y="135.75" w="75.0" h="95.0"/>
+<celldesigner:font size="12"/>
+<celldesigner:view state="usual"/>
+<celldesigner:backupSize w="0.0" h="0.0"/>
+<celldesigner:backupView state="none"/>
+<celldesigner:usualView>
+<celldesigner:innerPosition x="0.0" y="0.0"/>
+<celldesigner:boxSize width="75.0" height="95.0"/>
+<celldesigner:singleLine width="2.0"/>
+<celldesigner:paint color="ffffffff" scheme="Color"/>
+</celldesigner:usualView>
+<celldesigner:briefView>
+<celldesigner:innerPosition x="0.0" y="0.0"/>
+<celldesigner:boxSize width="80.0" height="60.0"/>
+<celldesigner:singleLine width="2.0"/>
+<celldesigner:paint color="fff7f7f7" scheme="Color"/>
+</celldesigner:briefView>
+<celldesigner:info state="empty" angle="-1.5707963267948966"/>
+</celldesigner:complexSpeciesAlias>
+</celldesigner:listOfComplexSpeciesAliases>
+<celldesigner:listOfSpeciesAliases>
+<celldesigner:speciesAlias id="sa1" species="a_s334">
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="307.6250000000009" y="120.75" w="60.0" h="30.0"/>
+<celldesigner:font size="12"/>
+<celldesigner:view state="usual"/>
+<celldesigner:usualView>
+<celldesigner:innerPosition x="4141.0" y="1139.0"/>
+<celldesigner:boxSize width="60.0" height="30.0"/>
+<celldesigner:singleLine width="1.0"/>
+<celldesigner:paint color="ffeec7b3" scheme="Color"/>
+</celldesigner:usualView>
+<celldesigner:briefView>
+<celldesigner:innerPosition x="0.0" y="0.0"/>
+<celldesigner:boxSize width="80.0" height="60.0"/>
+<celldesigner:singleLine width="1.0"/>
+<celldesigner:paint color="3fff0000" scheme="Color"/>
+</celldesigner:briefView>
+<celldesigner:info state="empty" angle="-1.5707963267948966"/>
+</celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="sa2" species="a_s4394">
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="311.88672888800284" y="209.64488919944097" w="60.0" h="30.0"/>
+<celldesigner:font size="12"/>
+<celldesigner:view state="usual"/>
+<celldesigner:usualView>
+<celldesigner:innerPosition x="2351.261728888002" y="216.89488919944097"/>
+<celldesigner:boxSize width="60.0" height="30.0"/>
+<celldesigner:singleLine width="1.0"/>
+<celldesigner:paint color="ffeec7b3" scheme="Color"/>
+</celldesigner:usualView>
+<celldesigner:briefView>
+<celldesigner:innerPosition x="0.0" y="0.0"/>
+<celldesigner:boxSize width="80.0" height="60.0"/>
+<celldesigner:singleLine width="1.0"/>
+<celldesigner:paint color="3fff0000" scheme="Color"/>
+</celldesigner:briefView>
+<celldesigner:info state="empty" angle="-1.5707963267948966"/>
+</celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="sa3" species="a_s3146">
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="356.3750000000009" y="166.89166181000724" w="60.0" h="30.0"/>
+<celldesigner:font size="12"/>
+<celldesigner:view state="usual"/>
+<celldesigner:usualView>
+<celldesigner:innerPosition x="4655.75" y="894.1416618100072"/>
+<celldesigner:boxSize width="60.0" height="30.0"/>
+<celldesigner:singleLine width="1.0"/>
+<celldesigner:paint color="ffeec7b3" scheme="Color"/>
+</celldesigner:usualView>
+<celldesigner:briefView>
+<celldesigner:innerPosition x="0.0" y="0.0"/>
+<celldesigner:boxSize width="80.0" height="60.0"/>
+<celldesigner:singleLine width="1.0"/>
+<celldesigner:paint color="3fff0000" scheme="Color"/>
+</celldesigner:briefView>
+<celldesigner:info state="empty" angle="-1.5707963267948966"/>
+</celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="sa4" species="a_s2983" complexSpeciesAlias="csa1">
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="223.8749999999991" y="193.08333333333303" w="60.0" h="30.0"/>
+<celldesigner:font size="12"/>
+<celldesigner:view state="usual"/>
+<celldesigner:usualView>
+<celldesigner:innerPosition x="6.25" y="57.33333333333303"/>
+<celldesigner:boxSize width="60.0" height="30.0"/>
+<celldesigner:singleLine width="1.0"/>
+<celldesigner:paint color="ffeec7b3" scheme="Color"/>
+</celldesigner:usualView>
+<celldesigner:briefView>
+<celldesigner:innerPosition x="0.0" y="0.0"/>
+<celldesigner:boxSize width="80.0" height="60.0"/>
+<celldesigner:singleLine width="1.0"/>
+<celldesigner:paint color="3fff0000" scheme="Color"/>
+</celldesigner:briefView>
+<celldesigner:info state="empty" angle="-1.5707963267948966"/>
+</celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="sa5" species="a_s3000" complexSpeciesAlias="csa1">
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="225.6249999999991" y="150.08333333333303" w="60.0" h="30.0"/>
+<celldesigner:font size="12"/>
+<celldesigner:view state="usual"/>
+<celldesigner:usualView>
+<celldesigner:innerPosition x="8.0" y="14.33333333333303"/>
+<celldesigner:boxSize width="60.0" height="30.0"/>
+<celldesigner:singleLine width="1.0"/>
+<celldesigner:paint color="ffeec7b3" scheme="Color"/>
+</celldesigner:usualView>
+<celldesigner:briefView>
+<celldesigner:innerPosition x="0.0" y="0.0"/>
+<celldesigner:boxSize width="80.0" height="60.0"/>
+<celldesigner:singleLine width="1.0"/>
+<celldesigner:paint color="3fff0000" scheme="Color"/>
+</celldesigner:briefView>
+<celldesigner:info state="empty" angle="-1.5707963267948966"/>
+</celldesigner:speciesAlias>
+</celldesigner:listOfSpeciesAliases>
+<celldesigner:listOfGroups/>
+<celldesigner:listOfProteins>
+<celldesigner:protein id="e_pr137" name="RAF1" type="GENERIC">
+<celldesigner:notes>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title/>
+</head>
+<body>
+Identifiers_begin:
+v-raf-1 murine leukemia viral oncogene homolog 1
+HUGO:RAF1 HGNC:9829 ENTREZ:5894 UNIPROT:P04049 GENECARDS:RAF1 REACTOME:58255 KEGG:5894 ATLASONC:RAF1ID42032ch3p25 WIKI:RAF1
+Identifiers_end
+Maps_Modules_begin:
+MAP:emtcellmotility / MODULE:EMT_REGULATORS
+MAP:apoptosis / MODULE:MOMP_REGULATION
+MAP:survival / MODULE:MAPK
+MAP:survival / MODULE:WNT_NON_CANONICAL
+Maps_Modules_end
+</body>
+</html>
+</celldesigner:notes>
+</celldesigner:protein>
+<celldesigner:protein id="e_pr159" name="BCL2" type="GENERIC">
+<celldesigner:notes>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title/>
+</head>
+<body>
+Identifiers_begin:
+B-cell CLL/lymphoma 2
+HUGO:BCL2 HGNC:990 ENTREZ:596 UNIPROT:P10415 GENECARDS:BCL2 REACTOME:50758 KEGG:596 ATLASONC:BCL2ID49 WIKI:BCL2
+Identifiers_end
+Maps_Modules_begin:
+MAP:emtcellmotility / MODULE:EMT_REGULATORS
+MAP:apoptosis / MODULE:AKT_MTOR
+MAP:apoptosis / MODULE:APOPTOSIS_GENES
+MAP:apoptosis / MODULE:CASPASES
+MAP:apoptosis / MODULE:MITOCH_METABOLISM
+MAP:apoptosis / MODULE:MOMP_REGULATION
+MAP:survival / MODULE:MAPK
+Maps_Modules_end
+</body>
+</html>
+</celldesigner:notes>
+<celldesigner:listOfModificationResidues>
+<celldesigner:modificationResidue angle="1.1780972450961724" id="a_rs1" side="none"/>
+<celldesigner:modificationResidue angle="1.9634954084936207" id="a_rs2" side="none"/>
+</celldesigner:listOfModificationResidues>
+</celldesigner:protein>
+<celldesigner:protein id="e_pr1029" name="BAD" type="GENERIC">
+<celldesigner:notes>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title/>
+</head>
+<body>
+Identifiers_begin:
+BCL2-associated agonist of cell death
+HUGO:BAD HGNC:936 ENTREZ:572 UNIPROT:Q92934 GENECARDS:BAD REACTOME:50663 KEGG:572 ATLASONC:BADID130ch11q13 WIKI:BAD
+Identifiers_end
+Maps_Modules_begin:
+MAP:emtcellmotility / MODULE:EMT_REGULATORS
+MAP:apoptosis / MODULE:APOPTOSIS_GENES
+MAP:apoptosis / MODULE:MITOCH_METABOLISM
+MAP:apoptosis / MODULE:MOMP_REGULATION
+MAP:survival / MODULE:MAPK
+MAP:survival / MODULE:PI3K_AKT_MTOR
+MAP:survival / MODULE:WNT_NON_CANONICAL
+Maps_Modules_end
+References_begin:
+there are at least 2 isoforms of BAD. Here, protein BAD refers to any of the different isoforms. Numbering of amino-acids, used for phosphorylation sites, are adjusted to the &apos;canonical&apos; isoform as defined in Uniprot. This lead to choosing different isoforms for different organisms.
+References_end
+</body>
+</html>
+</celldesigner:notes>
+<celldesigner:listOfModificationResidues>
+<celldesigner:modificationResidue angle="1.2" id="a_rs1" side="none"/>
+<celldesigner:modificationResidue angle="1.96" id="a_rs2" side="none"/>
+</celldesigner:listOfModificationResidues>
+</celldesigner:protein>
+</celldesigner:listOfProteins>
+<celldesigner:listOfGenes/>
+<celldesigner:listOfRNAs/>
+<celldesigner:listOfAntisenseRNAs/>
+<celldesigner:listOfLayers/>
+<celldesigner:listOfBlockDiagrams/>
+</celldesigner:extension>
+</annotation>
+<listOfUnitDefinitions>
+<unitDefinition metaid="substance" id="substance" name="substance">
+<listOfUnits>
+<unit metaid="CDMT00005" kind="mole"/>
+</listOfUnits>
+</unitDefinition>
+<unitDefinition metaid="volume" id="volume" name="volume">
+<listOfUnits>
+<unit metaid="CDMT00006" kind="litre"/>
+</listOfUnits>
+</unitDefinition>
+<unitDefinition metaid="area" id="area" name="area">
+<listOfUnits>
+<unit metaid="CDMT00007" kind="metre" exponent="2"/>
+</listOfUnits>
+</unitDefinition>
+<unitDefinition metaid="length" id="length" name="length">
+<listOfUnits>
+<unit metaid="CDMT00008" kind="metre"/>
+</listOfUnits>
+</unitDefinition>
+<unitDefinition metaid="time" id="time" name="time">
+<listOfUnits>
+<unit metaid="CDMT00009" kind="second"/>
+</listOfUnits>
+</unitDefinition>
+</listOfUnitDefinitions>
+<listOfCompartments>
+<compartment metaid="default" id="default" size="1" units="volume"/>
+</listOfCompartments>
+<listOfSpecies>
+<species metaid="a_s334" id="a_s334" name="RAF1" compartment="default" initialAmount="0" charge="0">
+<notes>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title/>
+</head>
+<body>References_begin:
+a_re1420(MAP:apoptosis):
+PMID:8929532
+in vitro RAF1:BCL2 interaction
+in 293, overexpression of BCL2 induces relocalization of RAF1-GFP to mitochondria
+in vitro phosphorylation of BAD by RAF1
+in 293T, over-expression of a mitochondria-targeted version of RAF1 induces phosphorylation of BAD (controls: plasma membrane targeted RAF1, kinase dead mutant)
+BCL2 over-expression targets RAF1 kinase domain-GFP to mitochondria
+mitochondria-targeted RAF1 (deleted for Ras binding domain) potentiates BCL2 anti-apoptotic activity in 32D.3 exposed to staurosporine or upon IL-3 withdrawal
+References_end
+</body>
+</html>
+</notes>
+<annotation>
+<celldesigner:extension>
+<celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment>
+<celldesigner:speciesIdentity>
+<celldesigner:class>PROTEIN</celldesigner:class>
+<celldesigner:proteinReference>e_pr137</celldesigner:proteinReference>
+</celldesigner:speciesIdentity>
+<celldesigner:listOfCatalyzedReactions>
+<celldesigner:catalyzed reaction="re1"/>
+</celldesigner:listOfCatalyzedReactions>
+</celldesigner:extension>
+</annotation>
+</species>
+<species metaid="a_s4394" id="a_s4394" name="BCL2" compartment="default" initialAmount="0" charge="0">
+<notes>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title/>
+</head>
+<body>References_begin:
+a_re1420(MAP:apoptosis):
+PMID:8929532
+in vitro RAF1:BCL2 interaction
+in 293, overexpression of BCL2 induces relocalization of RAF1-GFP to mitochondria
+in vitro phosphorylation of BAD by RAF1
+in 293T, over-expression of a mitochondria-targeted version of RAF1 induces phosphorylation of BAD (controls: plasma membrane targeted RAF1, kinase dead mutant)
+BCL2 over-expression targets RAF1 kinase domain-GFP to mitochondria
+mitochondria-targeted RAF1 (deleted for Ras binding domain) potentiates BCL2 anti-apoptotic activity in 32D.3 exposed to staurosporine or upon IL-3 withdrawal
+a_re1407:(MAP:apoptosis) reactionType:is.a
+a_re1409(MAP:apoptosis):
+PMID:9115213
+S70 phosphorylation of BCL2 necessary for its antiapoptotic function
+in NSF/N1.H7 mouse leukemia cells BCL2 mutants transfection) in response to IL-3, etoposide, or bryostatin-1, a PKC activator
+PMID:9738012
+suggest that PRKCA is the main PRKC BCL2 kinase in HL60 human acute myeloid leukemia cell line
+PMID:10677502
+ERK1/2 is a BCL2 S70 kinase in NSF/N1.H7 cells stimulated with IL-3
+in vitro direct phosphorylation
+PMID:11323415
+JNK is a BCL2 S70 kinase in NSF/N1.H7 cells upon IL-3 withdrawal
+References_end
+</body>
+</html>
+</notes>
+<annotation>
+<celldesigner:extension>
+<celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment>
+<celldesigner:speciesIdentity>
+<celldesigner:class>PROTEIN</celldesigner:class>
+<celldesigner:proteinReference>e_pr159</celldesigner:proteinReference>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+</annotation>
+</species>
+<species metaid="a_s3146" id="a_s3146" name="BAD" compartment="default" initialAmount="0" charge="0">
+<notes>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title/>
+</head>
+<body>References_begin:
+a_re631(MAP:apoptosis):
+logical:re631_s3146_re638=FALSE
+PMID:9381178
+in FL5.12 (murine pro-B-cell lymphoid cell, IL-3 dependent) BAD phosphorylated upon IL-3
+in 293T, over-expression of wt Akt or myr-Akt, but not kinase mutant induces phosphorylation of BAD
+in vitro phosphorylation of BAD by Akt, BAD S112(human S75)A-S136(human S99)A not phosphorylated
+PMID:8929531
+2D tryptic peptide mapping identifies S112(human S75) and S136(human S99) as the phospho-sites
+phsophorylation in FL5.12 in response to IL-3 or PMA
+PMID:9346240
+in vitro, purified Akt phosphorylates recombinant BAD at S136(human S99) but not at S112(human S75) (serine mutants)
+in Balb/c 3T3 upon PDGF or PC12 upon NGF, BAD phosphorylated in an Akt-dependent manner (wortmannin, LY294002)
+partial evidence for BAD:Akt interaction
+PMID:10230394
+mitochondria localized PKA is a BAD-S112(human S75) kinase
+PMID:10558990
+in vitro purified activated RSK2/RPS6KA3 phosphorylates a peptide encompassing BAD S112(humanS75) phospho-site. Far less efficient as a BAD-S136 kinase
+in 293T, over-expression of RSK2 and MEK1 induces phsophorylation of BAD (anti-BAD pS112)
+in BDNF-treated cerebellar granule cells, BDNF induces S112 phosphorylation of BAD, in a MEK1-dependent manner (PD098059)
+PMID:10837486
+RSK is a BAD S112 kinase (anti BAD-phosphoS112)
+in vitro,
+in HEK293 upon forskolin TPA isoproterenol or  insulin-like growth factor, PKA mediated phosphorylation of S155 of murine BAD (human S118)
+S118 lies in the BH3 domain of BAD
+phosphorylation of S155 independent of that of S112/136
+RSK1-2-3 are BAD S155 kinases
+PMID:12954615
+in vitro, murine PIM2 immunoprecipitated from trasfected U2OS phosphorylates BAD
+in U2OS, PIM2 expression but not that of a kinase dead mutant induces BAD S112 phosphorylation
+in FDCP1 murine IL3 dependent hematopoietic cells, upon IL3 withdrawal or doxorubicin, PIM2 ectopic expression is protective
+PMID:15280015
+BAD S112 phosphorylation by PIM1
+PMID:17270021
+in SW480 human colon carcinoma cell line, correlation between PIM3 expression and BAD phosphorylation. siRNA against PIM3 abrogates BAD S112 and S136 phosphorylation and induces apoptosis
+in a set of human colon cancers, correlation and colocalization of PIM3 and BAD phospho-S112
+PMID:11493700
+S6K purified as a BAD kinase from FL5.12 BCL-XL/BAD cells
+in vitro with recombinant proteins, BAD S136 phosphorylation
+in FL5.12 by S6K upon IGF, inhibited by rapamycin
+in ES p70S6K-/- cells, IGF-induced BAD S136 phosphorylation is lost
+PMID:10611223
+in FL5.12 upon IL3, PAK1 phosphorylates BAD on S112 and S136, which results in decreased interaction with BCL2 and BCL2L1, and increased interaction with 14-3-3
+a_re1420(MAP:apoptosis):
+PMID:8929532
+in vitro RAF1:BCL2 interaction
+in 293, overexpression of BCL2 induces relocalization of RAF1-GFP to mitochondria
+in vitro phosphorylation of BAD by RAF1
+in 293T, over-expression of a mitochondria-targeted version of RAF1 induces phosphorylation of BAD (controls: plasma membrane targeted RAF1, kinase dead mutant)
+BCL2 over-expression targets RAF1 kinase domain-GFP to mitochondria
+mitochondria-targeted RAF1 (deleted for Ras binding domain) potentiates BCL2 anti-apoptotic activity in 32D.3 exposed to staurosporine or upon IL-3 withdrawal
+a_re632(MAP:apoptosis):
+logical:re632_s2093=FALSE
+interaction between BAD S155 and 14-3-3 delta and epsilon
+in FL5.12 co-IP of mouse BAD phosphorylated and YWHAQ
+in FL5.12 BAD phosphorylated only on S112 or S136 still binds 14-3-3 (S to A mutants, co-IP)
+in FL5.12 phosphorylation and binding to 14-3-3 inhibits BAD interaction with Bcl-XL and pro-apoptotic activity
+PMID:12657644
+in 293T, BAD:YWHAE interaction, inhibited by caspase-mediated cleavage of YWHAE
+PMID:17979178
+BAD:YWHAH interaction tandem affinity purification in a complex with Raf (cited by IntAct)
+a_re633(MAP:apoptosis):
+logical:re633_s3146_re638=FALSE
+PMID:10195903
+in 293T cells or 293T cells expressing constitutively active Akt, upon over-expression of constitutive active calcineurin (DeltaCnA/CnB)
+in HCT116 colon cancer cells, Ca2+ increase (thapsigargin, ionomycin) inhibits BAD S75 phosphorylation and interaction of BAD with 14-3-3 or PP3CB.
+in transfected 293T, co-IP BAD phosphomimetic mutant with PPP3CB
+in Du145 prostate cancer cells, Ca2+ induced dephosphorylation of BAD correlates with its relocalization to mitochondria
+in CSM14.1 immortalized rat hippocampal cells, exogenously expressed BAD-GFP relocalizes to mitochondria in response to cytoplasmic Ca2+ increased (THG, A23187)
+in primaryin primary rat hippocampal neurons, L-glutamate induces cell death and relocalization to mitochondria of BAD-GFP, which are both inhibited by co-expression of dominant negative DeltaCnA(H101Q)
+in 293T cells or 293T cells expressing mitochondria-targeted RAF1, upon over-expression of constitutive active calcineurin (DeltaCnA/CnB)
+a_re638(MAP:apoptosis):
+reactionType:is.a
+References_end
+</body>
+</html>
+</notes>
+<annotation>
+<celldesigner:extension>
+<celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment>
+<celldesigner:speciesIdentity>
+<celldesigner:class>PROTEIN</celldesigner:class>
+<celldesigner:proteinReference>e_pr1029</celldesigner:proteinReference>
+<celldesigner:state>
+<celldesigner:listOfModifications>
+<celldesigner:modification residue="a_rs2" state="phosphorylated"/>
+</celldesigner:listOfModifications>
+</celldesigner:state>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+</annotation>
+</species>
+<species metaid="a_s2951" id="a_s2951" name="BAD:BCL2" compartment="default" initialAmount="0" charge="0">
+<notes>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title/>
+</head>
+<body>Identifiers_begin:
+NAME:BAD:BCL2
+Identifiers_end
+References_begin:
+a_re597:(MAP:apoptosis) testtest
+a_re1420(MAP:apoptosis):
+PMID:8929532
+in vitro RAF1:BCL2 interaction
+in 293, overexpression of BCL2 induces relocalization of RAF1-GFP to mitochondria
+in vitro phosphorylation of BAD by RAF1
+in 293T, over-expression of a mitochondria-targeted version of RAF1 induces phosphorylation of BAD (controls: plasma membrane targeted RAF1, kinase dead mutant)
+BCL2 over-expression targets RAF1 kinase domain-GFP to mitochondria
+mitochondria-targeted RAF1 (deleted for Ras binding domain) potentiates BCL2 anti-apoptotic activity in 32D.3 exposed to staurosporine or upon IL-3 withdrawal
+References_end
+Confidence_begin:
+<span style="color:red">FUNC=5</span>
+Confidence_end
+</body>
+</html>
+</notes>
+<annotation>
+<celldesigner:extension>
+<celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment>
+<celldesigner:speciesIdentity>
+<celldesigner:class>COMPLEX</celldesigner:class>
+<celldesigner:name>BAD:BCL2</celldesigner:name>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+</annotation>
+</species>
+</listOfSpecies>
+<listOfReactions>
+<reaction metaid="re5" id="re1" reversible="false">
+<annotation>
+<celldesigner:extension>
+<celldesigner:reactionType>STATE_TRANSITION</celldesigner:reactionType>
+<celldesigner:baseReactants>
+<celldesigner:baseReactant species="a_s2951" alias="csa1">
+<celldesigner:linkAnchor position="E"/>
+</celldesigner:baseReactant>
+</celldesigner:baseReactants>
+<celldesigner:baseProducts>
+<celldesigner:baseProduct species="a_s3146" alias="sa3">
+<celldesigner:linkAnchor position="W"/>
+</celldesigner:baseProduct>
+</celldesigner:baseProducts>
+<celldesigner:listOfProductLinks>
+<celldesigner:productLink product="a_s4394" alias="sa2" targetLineIndex="-1,1">
+<celldesigner:linkAnchor position="N"/>
+<celldesigner:connectScheme connectPolicy="direct">
+<celldesigner:listOfLineDirection>
+<celldesigner:lineDirection index="0" value="unknown"/>
+</celldesigner:listOfLineDirection>
+</celldesigner:connectScheme>
+<celldesigner:line width="1.0" color="ff000000" type="Straight"/>
+</celldesigner:productLink>
+</celldesigner:listOfProductLinks>
+<celldesigner:connectScheme connectPolicy="direct" rectangleIndex="0">
+<celldesigner:listOfLineDirection>
+<celldesigner:lineDirection index="0" value="unknown"/>
+</celldesigner:listOfLineDirection>
+</celldesigner:connectScheme>
+<celldesigner:line width="1.0" color="ff000000"/>
+<celldesigner:listOfModification>
+<celldesigner:modification type="CATALYSIS" modifiers="a_s334" aliases="sa1" targetLineIndex="-1,2">
+<celldesigner:connectScheme connectPolicy="direct">
+<celldesigner:listOfLineDirection>
+<celldesigner:lineDirection index="0" value="unknown"/>
+</celldesigner:listOfLineDirection>
+</celldesigner:connectScheme>
+<celldesigner:linkTarget species="a_s334" alias="sa1">
+<celldesigner:linkAnchor position="S"/>
+</celldesigner:linkTarget>
+<celldesigner:line width="1.0" color="ff000000"/>
+</celldesigner:modification>
+</celldesigner:listOfModification>
+</celldesigner:extension>
+</annotation>
+<listOfReactants>
+<speciesReference metaid="CDMT00001" species="a_s2951">
+<annotation>
+<celldesigner:extension>
+<celldesigner:alias>csa1</celldesigner:alias>
+</celldesigner:extension>
+</annotation>
+</speciesReference>
+</listOfReactants>
+<listOfProducts>
+<speciesReference metaid="CDMT00002" species="a_s3146">
+<annotation>
+<celldesigner:extension>
+<celldesigner:alias>sa3</celldesigner:alias>
+</celldesigner:extension>
+</annotation>
+</speciesReference>
+<speciesReference metaid="CDMT00003" species="a_s4394">
+<annotation>
+<celldesigner:extension>
+<celldesigner:alias>sa2</celldesigner:alias>
+</celldesigner:extension>
+</annotation>
+</speciesReference>
+</listOfProducts>
+<listOfModifiers>
+<modifierSpeciesReference metaid="CDMT00004" species="a_s334">
+<annotation>
+<celldesigner:extension>
+<celldesigner:alias>sa1</celldesigner:alias>
+</celldesigner:extension>
+</annotation>
+</modifierSpeciesReference>
+</listOfModifiers>
+</reaction>
+</listOfReactions>
+</model>
+</sbml>
