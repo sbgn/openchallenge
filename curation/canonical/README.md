@@ -1,6 +1,6 @@
 ## canonical-m01v01: HRAS-RAF1-MEK1/2-ERK1/2
 
-![image](canonical-m01-v01.png){ width=50% } 
+![image](canonical-m01-v01.png){:width="400px"} 
 ![image](canonical-m01-v01.png){ height="200px" width="200px" }  
 ![image](canonical-m01-v01.png){width:200px}  
 ![image](canonical-m01-v01.png){width:200px;}  
