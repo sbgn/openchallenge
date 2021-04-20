@@ -2,8 +2,6 @@
 
 <img src="canonical-m01-v01.png" width="240"/>  
 
-![](canonical-m01-v01.png)
-
 **Creators:** Alexander Mazein
 
 **Description:** Text  
