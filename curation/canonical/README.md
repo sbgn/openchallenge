@@ -6,8 +6,8 @@
 
 **Description:** Text  
 
-**Input:** HRAS, p-RAF1, MEK1/2, ERK1/2  
-**Output:** pp-ERK1/2  
+**Input:** HRAS, GTP, p-RAF1, MEK1/2, ERK1/2  
+**Output:** pp-ERK1/2, GDP  
 
 **Key references**  
 
@@ -21,8 +21,8 @@ Text
 
 **Description:** Text  
 
-**Input:** HRAS, p-RAF1, MEK1, MEK2, ERK1, ERK2  
-**Output:** pp-ERK1, pp-ERK2  
+**Input:** HRAS, GTP, p-RAF1, MEK1, MEK2, ERK1, ERK2  
+**Output:** pp-ERK1, pp-ERK2, GDP  
 
 **Key references**  
 
