@@ -2,7 +2,7 @@
 
 <img src="canonical-m01-v01.png" width="300"/>
 
-![image](canonical-m01-v01.png){width=200px}
+![image](canonical-m01-v01.png){200px}
 
 
 **Creators:** Alexander Mazein
