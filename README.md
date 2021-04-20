@@ -1,4 +1,4 @@
-## Open Challenge
+# Open Challenge
 
 This repository is for sharing diagrams within the [RAS-RAF-MEK-ERK Pathway Challenge](https://sbgn.github.io/openchallenge) project.  
 
