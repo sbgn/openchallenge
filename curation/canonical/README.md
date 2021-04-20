@@ -1,6 +1,6 @@
 ## canonical-m01v01: HRAS-RAF1-MEK1/2-ERK1/2
 
-![](..curation/canonical/canonical-m01-v01.png =250x)
+![](..curation/canonical/canonical-m01-v01.png)
 
 **Creators:** Alexander Mazein
 
