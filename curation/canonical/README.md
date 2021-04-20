@@ -13,7 +13,7 @@ Text
 
 ## canonical-m02v01: HRAS-RAF1-MEK1/MEK2-ERK1/ERK2
 
-<img src="canonical-m02-v01.png" width="400"/>
+<img src="canonical-m02-v01.png" width="500"/>
 
 **Creators:** Alexander Mazein
 
