@@ -6,6 +6,9 @@
 
 **Description:** Text  
 
+**Input:** HRAS, p-RAF1, MEK1/2, ERK1/2  
+**Output:** pp-ERK1/2  
+
 **Key references**  
 
 Text
@@ -17,6 +20,9 @@ Text
 **Creators:** Alexander Mazein
 
 **Description:** Text  
+
+**Input:** HRAS, p-RAF1, MEK1, MEK2, ERK1, ERK2  
+**Output:** pp-ERK1, pp-ERK2  
 
 **Key references**  
 
