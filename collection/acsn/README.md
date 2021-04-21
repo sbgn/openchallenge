@@ -6,19 +6,19 @@
 (C) the MAPK part of the Cell Survival map;  
 (D) the RAS–RAF–MEK–ERK part of the EMT and Senescence map.  
 
-<img src="acsn-fig1a.png" width="240"/> 
+<img src="acsn-fig1a.png" width="200"/> 
 
 (A)
 
-<img src="acsn-fig1b.png" width="240"/> 
+<img src="acsn-fig1b.png" width="200"/> 
 
 (B)
 
-<img src="acsn-fig1c.png" width="240"/> 
+<img src="acsn-fig1c.png" width="400"/> 
 
 (C)
 
-<img src="acsn-fig1d.png" width="240"/> 
+<img src="acsn-fig1d.png" width="400"/> 
 
 (D)
 
