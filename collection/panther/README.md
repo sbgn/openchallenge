@@ -9,7 +9,7 @@
 <img src="panther-fig2a.png" width="180"/> 
 
 (B)  
-<img src="panther-fig2b.png" width="180"/>
+<img src="panther-fig2b.png" width="200"/>
 
 (C)  
 <img src="panther-fig2c.png" width="400"/>
