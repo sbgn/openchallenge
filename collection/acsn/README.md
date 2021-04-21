@@ -13,10 +13,10 @@
 <img src="acsn-fig1b.png" width="180"/> 
 
 (C)
-<img src="acsn-fig1c.png" width="700"/> 
+<img src="acsn-fig1c.png" width="600"/> 
 
 (D)
-<img src="acsn-fig1d.png" width="700"/> 
+<img src="acsn-fig1d.png" width="800"/> 
 
 
 
