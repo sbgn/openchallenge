@@ -6,7 +6,7 @@
 <img src="panther-fig2a.png" width="180"/> 
 
 (B)  
-<img src="panther-fig2b.png" width="200"/>
+<img src="panther-fig2b.png" width="190"/>
 
 (C)  
 <img src="panther-fig2c.png" width="400"/>
