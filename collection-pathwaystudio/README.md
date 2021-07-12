@@ -1,0 +1,5 @@
+- Several pathways were reconstructed and/or exported from Pathway Studio for the project.
+- The presentation is about method and steps of pathway reconstruction.
+- The file “Pathways list and links.xlsx” contains links to the free pathway viewer for browsing pathways, reading entity annotations and first 3 references.
+- Folder with tables with proteins annotations (by pathway) (and tables with relations annotations and selected references). Only selected annotations and references were exported in tables (to make file sizes manageable). It is possible to export more by request. Resnet-2020 was used. It is possible to update files with Resnet-2021.
+- Folder “RNEF_SBGN” contains converted into SBGN files with pathways (no annotations, only layout (using convertor from https://github.com/golovatenkop/rnef2sbgn, http://web.newteditor.org/)

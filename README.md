@@ -7,3 +7,5 @@ The **curation** folder contains models developed in CellDesigner, SBGN-ED, Newt
 The **curation-ueve-group** folder is for models developed by the UEVE group.  
 
 The **collection** folder includes RAS-RAF-MEK-ERK modules found in Reactome, PANTHER and the Atlas of Cancer Signalling Network.
+
+The **collection-pathwaystudio** folder includes models developed by Pathway Studio team.

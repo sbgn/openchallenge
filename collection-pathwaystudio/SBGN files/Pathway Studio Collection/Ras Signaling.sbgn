@@ -1,0 +1,501 @@
+<?xml version="1.0" ?>
+<sbgn xmlns="http://sbgn.org/libsbgn/0.3">
+    <map language="activity flow">
+        <glyph class="biological activity" id="glyph2">
+            <label text="Ras GTPase"/>
+            <bbox h="33.17445" w="38.15061" x="303.11715" y="506.51112000000006"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph3">
+            <label text="Ras-GAP"/>
+            <bbox h="33.17445" w="38.15061" x="258.11715" y="431.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph8">
+            <label text="GDI"/>
+            <bbox h="33.17445" w="38.15061" x="303.11715" y="431.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph10">
+            <label text="RASSF1"/>
+            <bbox h="36.70566" w="61.29846" x="-191.88285" y="566.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph16">
+            <label text="diacylglycerol"/>
+            <bbox h="23.71707" w="23.71707" x="-161.88285" y="641.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph17">
+            <label text="MAP3K3"/>
+            <bbox h="36.70566" w="61.29846" x="543.11712" y="881.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph18">
+            <label text="ABL1"/>
+            <bbox h="36.70566" w="61.29846" x="108.11715000000001" y="746.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph19">
+            <label text="GTP"/>
+            <bbox h="23.71707" w="23.71707" x="258.11715" y="566.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph20">
+            <label text="Ca2+"/>
+            <bbox h="23.71707" w="23.71707" x="-71.88284999999999" y="791.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph21">
+            <label text="Pi"/>
+            <bbox h="23.71707" w="23.71707" x="-26.882849999999998" y="626.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph22">
+            <label text="TERT"/>
+            <bbox h="36.70566" w="61.29846" x="108.11715000000001" y="821.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph57">
+            <label text="ZDHHC9"/>
+            <bbox h="36.70566" w="61.29846" x="198.11715" y="431.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph58">
+            <label text="PGGT1B"/>
+            <bbox h="36.70566" w="61.29846" x="48.117149999999995" y="431.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph59">
+            <label text="RCE1"/>
+            <bbox h="36.70566" w="61.29846" x="-26.882849999999998" y="431.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph61">
+            <label text="GOLGA7"/>
+            <bbox h="36.70566" w="61.29846" x="123.11715000000001" y="431.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph63">
+            <label text="AFDN"/>
+            <bbox h="36.70566" w="61.29846" x="408.11715" y="431.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph69">
+            <label text="PLCE1"/>
+            <bbox h="36.70566" w="61.29846" x="-116.88284999999999" y="581.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph77">
+            <label text="PARD3"/>
+            <bbox h="36.70566" w="61.29846" x="213.11715" y="611.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph78">
+            <label text="MAPK1"/>
+            <bbox h="36.70566" w="61.29846" x="393.11715" y="881.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph79">
+            <label text="RAF1"/>
+            <bbox h="36.70566" w="61.29846" x="468.11715" y="881.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph80">
+            <label text="MAP3K1"/>
+            <bbox h="36.0" w="60.0" x="618.11712" y="881.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph81">
+            <label text="MAP2K1"/>
+            <bbox h="36.0" w="60.0" x="693.11712" y="881.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph82">
+            <label text="TIAM1"/>
+            <bbox h="36.70566" w="61.29846" x="303.11715" y="611.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph84">
+            <label text="RALBP1"/>
+            <bbox h="36.70566" w="61.29846" x="393.11712" y="641.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph85">
+            <label text="RALGDS"/>
+            <bbox h="36.70566" w="61.29846" x="393.11712" y="566.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph86">
+            <label text="RALA"/>
+            <bbox h="36.70566" w="61.29846" x="468.11715" y="641.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph87">
+            <label text="RALGPS1"/>
+            <bbox h="36.70566" w="61.29846" x="468.11715" y="566.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph88">
+            <label text="RAC1"/>
+            <bbox h="36.70566" w="61.29846" x="393.11712" y="716.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph89">
+            <label text="PAK1"/>
+            <bbox h="36.70566" w="61.29846" x="393.11715" y="791.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph90">
+            <label text="CDC42"/>
+            <bbox h="36.70566" w="61.29846" x="318.11712" y="716.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph91">
+            <label text="PRKCZ"/>
+            <bbox h="36.70566" w="61.29846" x="213.11715" y="716.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph92">
+            <label text="RHOA"/>
+            <bbox h="36.70566" w="61.29846" x="318.11712" y="791.51112"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph93">
+            <label text="cell growth"/>
+            <bbox h="46.92861" w="95.50329" x="3.11715" y="941.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph94">
+            <label text="AKT1"/>
+            <bbox h="36.70566" w="61.29846" x="3.11715" y="821.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph95">
+            <label text="PDPK1"/>
+            <bbox h="36.70566" w="61.29846" x="3.11715" y="746.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph96">
+            <label text="PKC"/>
+            <bbox h="33.17445" w="38.15061" x="-161.88285" y="791.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph97">
+            <label text="ITPR1"/>
+            <bbox h="36.70566" w="61.29846" x="-71.88284999999999" y="716.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph98">
+            <label text="inositol (1,4,5)P3"/>
+            <bbox h="23.71707" w="23.71707" x="-71.88284999999999" y="641.51112"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph99">
+            <label text="apoptosis"/>
+            <bbox h="46.92861" w="95.50329" x="-191.88285" y="941.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph100">
+            <label text="Ras-GRF"/>
+            <bbox h="33.17445" w="38.15061" x="348.11715" y="431.51112"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph101">
+            <label text="cytoskeleton organization and biogenesis"/>
+            <bbox h="46.92861" w="95.50329" x="213.11715" y="941.51112"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph102">
+            <label text="telomere maintenance"/>
+            <bbox h="46.92861" w="95.50329" x="108.11715000000001" y="941.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph103">
+            <label text="RIN1"/>
+            <bbox h="36.70566" w="61.29846" x="108.11715000000001" y="611.51112"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph107">
+            <label text="actin organization"/>
+            <bbox h="46.92861" w="95.50329" x="318.11712" y="941.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph109">
+            <label text="BRAF"/>
+            <bbox h="36.0" w="60.0" x="693.11712" y="566.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph110">
+            <label text="CNKSR1"/>
+            <bbox h="36.70566" w="61.29846" x="483.11712" y="431.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph111">
+            <label text="SPHK1"/>
+            <bbox h="36.70566" w="61.29846" x="558.11712" y="431.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph112">
+            <label text="sphingosine-1-phosphate"/>
+            <bbox h="23.71707" w="23.71707" x="558.11712" y="506.51112000000006"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph113">
+            <label text="FNTA"/>
+            <bbox h="36.70566" w="61.29846" x="-101.88284999999999" y="431.51112"/>
+        </glyph>
+        <glyph class="and" id="glyph114">
+            <label text="default"/>
+            <bbox h="7.11513" w="7.11513" x="2.8063800000000003" y="626.51208"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph115">
+            <label text="PIP3"/>
+            <bbox h="23.71707" w="23.71707" x="3.11715" y="671.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph116">
+            <label text="PIP2"/>
+            <bbox h="23.71707" w="23.71707" x="33.117149999999995" y="626.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph117">
+            <label text="PI3K"/>
+            <bbox h="33.17445" w="38.15061" x="3.11715" y="596.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph118">
+            <label text="NAD(P)H oxidase"/>
+            <bbox h="33.17445" w="38.15061" x="453.11715" y="791.51112"/>
+        </glyph>
+        <glyph class="biological activity" id="glyph119">
+            <label text="phospholipase D"/>
+            <bbox h="33.17445" w="38.15061" x="453.11715" y="716.51112"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph120">
+            <label text="vesicle-mediated transport"/>
+            <bbox h="46.92861" w="95.50329" x="588.11712" y="716.51112"/>
+        </glyph>
+        <arc class="unknown influence" id="arc1" source="glyph111" target="glyph112">
+            <start x="558.11712" y="431.51112"/>
+            <end x="558.11712" y="506.51112000000006"/>
+        </arc>
+        <arc class="positive influence" id="arc2" source="glyph112" target="glyph2">
+            <start x="558.11712" y="506.51112000000006"/>
+            <end x="303.11715" y="506.51112000000006"/>
+        </arc>
+        <arc class="positive influence" id="arc3" source="glyph10" target="glyph99">
+            <start x="-191.88285" y="566.51112"/>
+            <end x="-191.88285" y="941.51112"/>
+        </arc>
+        <arc class="unknown influence" id="arc4" source="glyph10" target="glyph2">
+            <start x="-191.88285" y="566.51112"/>
+            <end x="303.11715" y="506.51112000000006"/>
+        </arc>
+        <arc class="unknown influence" id="arc5" source="glyph110" target="glyph2">
+            <start x="483.11712" y="431.51112"/>
+            <end x="303.11715" y="506.51112000000006"/>
+        </arc>
+        <arc class="unknown influence" id="arc6" source="glyph69" target="glyph98">
+            <start x="-116.88284999999999" y="581.51112"/>
+            <end x="-71.88284999999999" y="641.51112"/>
+        </arc>
+        <arc class="unknown influence" id="arc7" source="glyph69" target="glyph16">
+            <start x="-116.88284999999999" y="581.51112"/>
+            <end x="-161.88285" y="641.51112"/>
+        </arc>
+        <arc class="unknown influence" id="arc8" source="glyph69" target="glyph2">
+            <start x="-116.88284999999999" y="581.51112"/>
+            <end x="303.11715" y="506.51112000000006"/>
+        </arc>
+        <arc class="unknown influence" id="arc9" source="glyph63" target="glyph2">
+            <start x="408.11715" y="431.51112"/>
+            <end x="303.11715" y="506.51112000000006"/>
+        </arc>
+        <arc class="positive influence" id="arc10" source="glyph100" target="glyph2">
+            <start x="348.11715" y="431.51112"/>
+            <end x="303.11715" y="506.51112000000006"/>
+        </arc>
+        <arc class="negative influence" id="arc11" source="glyph3" target="glyph2">
+            <start x="258.11715" y="431.51112"/>
+            <end x="303.11715" y="506.51112000000006"/>
+        </arc>
+        <arc class="positive influence" id="arc12" source="glyph20" target="glyph96">
+            <start x="-71.88284999999999" y="791.51112"/>
+            <end x="-161.88285" y="791.51112"/>
+        </arc>
+        <arc class="positive influence" id="arc13" source="glyph18" target="glyph107">
+            <start x="108.11715000000001" y="746.51112"/>
+            <end x="318.11712" y="941.51112"/>
+        </arc>
+        <arc class="unknown influence" id="arc14" source="glyph103" target="glyph78">
+            <start x="108.11715000000001" y="611.51112"/>
+            <end x="393.11715" y="881.51112"/>
+        </arc>
+        <arc class="negative influence" id="arc15" source="glyph18" target="glyph22">
+            <start x="108.11715000000001" y="746.51112"/>
+            <end x="108.11715000000001" y="821.51112"/>
+        </arc>
+        <arc class="unknown influence" id="arc16" source="glyph22" target="glyph102">
+            <start x="108.11715000000001" y="821.51112"/>
+            <end x="108.11715000000001" y="941.51112"/>
+        </arc>
+        <arc class="unknown influence" id="arc17" source="glyph103" target="glyph18">
+            <start x="108.11715000000001" y="611.51112"/>
+            <end x="108.11715000000001" y="746.51112"/>
+        </arc>
+        <arc class="unknown influence" id="arc18" source="glyph103" target="glyph2">
+            <start x="108.11715000000001" y="611.51112"/>
+            <end x="303.11715" y="506.51112000000006"/>
+        </arc>
+        <arc class="positive influence" id="arc19" source="glyph109" target="glyph81">
+            <start x="693.11712" y="566.51112"/>
+            <end x="693.11712" y="881.51112"/>
+        </arc>
+        <arc class="positive influence" id="arc20" source="glyph2" target="glyph109">
+            <start x="303.11715" y="506.51112000000006"/>
+            <end x="693.11712" y="566.51112"/>
+        </arc>
+        <arc class="unknown influence" id="arc21" source="glyph77" target="glyph82">
+            <start x="213.11715" y="611.51112"/>
+            <end x="303.11715" y="611.51112"/>
+        </arc>
+        <arc class="unknown influence" id="arc22" source="glyph91" target="glyph77">
+            <start x="213.11715" y="716.51112"/>
+            <end x="213.11715" y="611.51112"/>
+        </arc>
+        <arc class="positive influence" id="arc23" source="glyph90" target="glyph91">
+            <start x="318.11712" y="716.51112"/>
+            <end x="213.11715" y="716.51112"/>
+        </arc>
+        <arc class="positive influence" id="arc24" source="glyph82" target="glyph88">
+            <start x="303.11715" y="611.51112"/>
+            <end x="393.11712" y="716.51112"/>
+        </arc>
+        <arc class="positive influence" id="arc25" source="glyph2" target="glyph82">
+            <start x="303.11715" y="506.51112000000006"/>
+            <end x="303.11715" y="611.51112"/>
+        </arc>
+        <arc class="positive influence" id="arc26" source="glyph94" target="glyph93">
+            <start x="3.11715" y="821.51112"/>
+            <end x="3.11715" y="941.51112"/>
+        </arc>
+        <arc class="positive influence" id="arc27" source="glyph95" target="glyph94">
+            <start x="3.11715" y="746.51112"/>
+            <end x="3.11715" y="821.51112"/>
+        </arc>
+        <arc class="positive influence" id="arc28" source="glyph115" target="glyph95">
+            <start x="3.11715" y="671.51112"/>
+            <end x="3.11715" y="746.51112"/>
+        </arc>
+        <arc class="positive influence" id="arc29" source="glyph2" target="glyph117">
+            <start x="303.11715" y="506.51112000000006"/>
+            <end x="3.11715" y="596.51112"/>
+        </arc>
+        <arc class="positive influence" id="arc30" source="glyph88" target="glyph80">
+            <start x="393.11712" y="716.51112"/>
+            <end x="618.11712" y="881.51112"/>
+        </arc>
+        <arc class="positive influence" id="arc31" source="glyph92" target="glyph107">
+            <start x="318.11712" y="791.51112"/>
+            <end x="318.11712" y="941.51112"/>
+        </arc>
+        <arc class="positive influence" id="arc32" source="glyph90" target="glyph107">
+            <start x="318.11712" y="716.51112"/>
+            <end x="318.11712" y="941.51112"/>
+        </arc>
+        <arc class="positive influence" id="arc33" source="glyph88" target="glyph118">
+            <start x="393.11712" y="716.51112"/>
+            <end x="453.11715" y="791.51112"/>
+        </arc>
+        <arc class="positive influence" id="arc34" source="glyph89" target="glyph79">
+            <start x="393.11715" y="791.51112"/>
+            <end x="468.11715" y="881.51112"/>
+        </arc>
+        <arc class="positive influence" id="arc35" source="glyph89" target="glyph17">
+            <start x="393.11715" y="791.51112"/>
+            <end x="543.11712" y="881.51112"/>
+        </arc>
+        <arc class="positive influence" id="arc36" source="glyph89" target="glyph81">
+            <start x="393.11715" y="791.51112"/>
+            <end x="693.11712" y="881.51112"/>
+        </arc>
+        <arc class="unknown influence" id="arc37" source="glyph90" target="glyph101">
+            <start x="318.11712" y="716.51112"/>
+            <end x="213.11715" y="941.51112"/>
+        </arc>
+        <arc class="positive influence" id="arc38" source="glyph88" target="glyph101">
+            <start x="393.11712" y="716.51112"/>
+            <end x="213.11715" y="941.51112"/>
+        </arc>
+        <arc class="unknown influence" id="arc39" source="glyph88" target="glyph92">
+            <start x="393.11712" y="716.51112"/>
+            <end x="318.11712" y="791.51112"/>
+        </arc>
+        <arc class="unknown influence" id="arc40" source="glyph92" target="glyph101">
+            <start x="318.11712" y="791.51112"/>
+            <end x="213.11715" y="941.51112"/>
+        </arc>
+        <arc class="positive influence" id="arc41" source="glyph90" target="glyph89">
+            <start x="318.11712" y="716.51112"/>
+            <end x="393.11715" y="791.51112"/>
+        </arc>
+        <arc class="positive influence" id="arc42" source="glyph88" target="glyph89">
+            <start x="393.11712" y="716.51112"/>
+            <end x="393.11715" y="791.51112"/>
+        </arc>
+        <arc class="unknown influence" id="arc43" source="glyph90" target="glyph92">
+            <start x="318.11712" y="716.51112"/>
+            <end x="318.11712" y="791.51112"/>
+        </arc>
+        <arc class="positive influence" id="arc44" source="glyph84" target="glyph88">
+            <start x="393.11712" y="641.51112"/>
+            <end x="393.11712" y="716.51112"/>
+        </arc>
+        <arc class="unknown influence" id="arc45" source="glyph84" target="glyph90">
+            <start x="393.11712" y="641.51112"/>
+            <end x="318.11712" y="716.51112"/>
+        </arc>
+        <arc class="unknown influence" id="arc46" source="glyph119" target="glyph120">
+            <start x="453.11715" y="716.51112"/>
+            <end x="588.11712" y="716.51112"/>
+        </arc>
+        <arc class="positive influence" id="arc47" source="glyph84" target="glyph119">
+            <start x="393.11712" y="641.51112"/>
+            <end x="453.11715" y="716.51112"/>
+        </arc>
+        <arc class="positive influence" id="arc48" source="glyph2" target="glyph85">
+            <start x="303.11715" y="506.51112000000006"/>
+            <end x="393.11712" y="566.51112"/>
+        </arc>
+        <arc class="positive influence" id="arc49" source="glyph85" target="glyph86">
+            <start x="393.11712" y="566.51112"/>
+            <end x="468.11715" y="641.51112"/>
+        </arc>
+        <arc class="unknown influence" id="arc50" source="glyph84" target="glyph2">
+            <start x="393.11712" y="641.51112"/>
+            <end x="303.11715" y="506.51112000000006"/>
+        </arc>
+        <arc class="unknown influence" id="arc51" source="glyph84" target="glyph85">
+            <start x="393.11712" y="641.51112"/>
+            <end x="393.11712" y="566.51112"/>
+        </arc>
+        <arc class="unknown influence" id="arc52" source="glyph86" target="glyph84">
+            <start x="468.11715" y="641.51112"/>
+            <end x="393.11712" y="641.51112"/>
+        </arc>
+        <arc class="positive influence" id="arc53" source="glyph87" target="glyph86">
+            <start x="468.11715" y="566.51112"/>
+            <end x="468.11715" y="641.51112"/>
+        </arc>
+        <arc class="unknown influence" id="arc54" source="glyph8" target="glyph2">
+            <start x="303.11715" y="431.51112"/>
+            <end x="303.11715" y="506.51112000000006"/>
+        </arc>
+        <arc class="unknown influence" id="arc55" source="glyph2" target="glyph19">
+            <start x="303.11715" y="506.51112000000006"/>
+            <end x="258.11715" y="566.51112"/>
+        </arc>
+        <arc class="positive influence" id="arc56" source="glyph16" target="glyph96">
+            <start x="-161.88285" y="641.51112"/>
+            <end x="-161.88285" y="791.51112"/>
+        </arc>
+        <arc class="positive influence" id="arc57" source="glyph97" target="glyph20">
+            <start x="-71.88284999999999" y="716.51112"/>
+            <end x="-71.88284999999999" y="791.51112"/>
+        </arc>
+        <arc class="positive influence" id="arc58" source="glyph98" target="glyph97">
+            <start x="-71.88284999999999" y="641.51112"/>
+            <end x="-71.88284999999999" y="716.51112"/>
+        </arc>
+        <arc class="unknown influence" id="arc59" source="glyph59" target="glyph2">
+            <start x="-26.882849999999998" y="431.51112"/>
+            <end x="303.11715" y="506.51112000000006"/>
+        </arc>
+        <arc class="unknown influence" id="arc60" source="glyph58" target="glyph2">
+            <start x="48.117149999999995" y="431.51112"/>
+            <end x="303.11715" y="506.51112000000006"/>
+        </arc>
+        <arc class="negative influence" id="arc61" source="glyph113" target="glyph2">
+            <start x="-101.88284999999999" y="431.51112"/>
+            <end x="303.11715" y="506.51112000000006"/>
+        </arc>
+        <arc class="unknown influence" id="arc62" source="glyph57" target="glyph61">
+            <start x="198.11715" y="431.51112"/>
+            <end x="123.11715000000001" y="431.51112"/>
+        </arc>
+        <arc class="unknown influence" id="arc63" source="glyph57" target="glyph2">
+            <start x="198.11715" y="431.51112"/>
+            <end x="303.11715" y="506.51112000000006"/>
+        </arc>
+        <arc class="unknown influence" id="arc64" source="glyph61" target="glyph2">
+            <start x="123.11715000000001" y="431.51112"/>
+            <end x="303.11715" y="506.51112000000006"/>
+        </arc>
+        <arc class="unknown influence" id="arc65" source="glyph21" target="glyph114">
+            <start x="-26.882849999999998" y="626.51112"/>
+            <end x="2.8063800000000003" y="626.51208"/>
+        </arc>
+        <arc class="unknown influence" id="arc66" source="glyph116" target="glyph114">
+            <start x="33.117149999999995" y="626.51112"/>
+            <end x="2.8063800000000003" y="626.51208"/>
+        </arc>
+        <arc class="unknown influence" id="arc67" source="glyph114" target="glyph115">
+            <start x="2.8063800000000003" y="626.51208"/>
+            <end x="3.11715" y="671.51112"/>
+        </arc>
+        <arc class="unknown influence" id="arc68" source="glyph117" target="glyph114">
+            <start x="3.11715" y="596.51112"/>
+            <end x="2.8063800000000003" y="626.51208"/>
+        </arc>
+    </map>
+</sbgn>
