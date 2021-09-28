@@ -13,3 +13,6 @@ DUSP4 ([Q13115](https://www.uniprot.org/uniprot/Q13115)) is localised to the nuc
 
 ## DUSP3
 DUSP3 ([P51452](https://www.uniprot.org/uniprot/P51452)), also known as Vaccinia H1-related dual-specific phosphatase (VHR), is an atypical member of the family which lacks a MAPK-binding domain. It is localised to the nucleus and dephosphorylates ERK1/2. Despite being the first mammalian DUSP to be discovered, the precise role of this protein in the cell is still unclear; although in the absence of DUSP3, cells arrest at the G(1)/S and G(2)/M transitions.
+
+## DUSP pathway map
+![DUSP pathway map](DUSP.png)
