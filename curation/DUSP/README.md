@@ -2,7 +2,7 @@
 # Dual activity protein phosphatases
 These proteins dephosphorylate ERK1/2, presumably enabling the re-activation by the MEK kinase.
 Binding of MEK to unphosphorylated ERK1/2 results in a transient heterodimer, the phosphorylation (on tyrosine Y138 and in some cases on threonine T135) of ERK1/2 and the subsequent dissolution of the heterodimer. Activated (phosphorylated) ERK1/2 forms a homodimer which is transported into the nucleus [by an unknown mechanism] where it activates via phosphorylation various transcription factors.
-ERK1/2 appears does not contain a nuclear export signal and appears to be unable to re-enter the cytoplasm on its own. However, it can re-form a heterodimer with MEK (which does have a nuclear export signal) and thus be returned to the cytoplasm. MEK seems to be able to enter the nucleus spontaneously, probably by diffusion, but is rapidly actively exported due to the presence of the nuclear export signal.
+ERK1/2 does not contain a nuclear export signal and appears to be unable to re-enter the cytoplasm on its own. However, it can re-form a heterodimer with MEK (which does have a nuclear export signal) and thus be returned to the cytoplasm. MEK seems to be able to enter the nucleus spontaneously, probably by diffusion, but is rapidly actively exported due to the presence of the nuclear export signal.
 The DUSP family of phosphatases reverse the phosphorylation status of MEK-activated ERK1/2. The three DUSP proteins covered by this Open Challenge (DUSP3, DUSP4 and DUSP6) exhibit different subcellular localisation and thus appear to regulate different stages in the cytoplasmic-nuclear shuttling pathway.
 
 ## DUSP6
